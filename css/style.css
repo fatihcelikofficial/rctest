@@ -29,6 +29,10 @@ input[type=number] {
     --breakpoint-xxl: 1296px;
 }
 
+.asad {
+    margin: 0px 42px 0px 42px;
+}
+
 body {
     background-color: var(--black-russian);
     color: var(--white);
@@ -108,6 +112,7 @@ main {
     margin-bottom: 1rem;
     display: flex;
     flex-direction: column;
+	padding: .9rem;
 }
 
 main form {
@@ -377,6 +382,9 @@ aside.apps-promotion img {
     }
     table tbody tr td p {
         padding: 0 .5rem;
+    }
+	.asad {
+        margin: 0rem 10rem 0rem 10rem;
     }
 }
 
