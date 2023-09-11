@@ -284,11 +284,11 @@ table tbody tr td:not(:first-child) p {
 }
 
 thead{
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 tbody{
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .desired-coin{
