@@ -153,8 +153,7 @@ hr{
     border-radius: 4px 0 0 4px;
     border: 2px solid var(--rum);
     padding: 12px 14px;
-    font-family: var(--font-family-sans-serif);
-    font-size: 1.5rem;
+    font-size: 15px;
 }
 
 .roller-input-number:focus {
@@ -168,7 +167,7 @@ hr{
 .roller-section {
     border: 1px solid var(--rum);
     background-color: var(--ebony-clay);
-    padding: 24px 25px;
+    padding: 10px 10px;
     border-radius: 4px;
 }
 
@@ -339,9 +338,8 @@ footer ul li {
 
 .roller-select {
     /*-webkit-appearance: none;*/
-    font-family: var(--font-family-sans-serif);
     outline: none;
-    font-size: 1.2rem;
+    font-size: 15px;
     border: 2px solid var(--rum);
     color: var(--white);
     background-color: var(--black-russian);
