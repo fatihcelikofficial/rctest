@@ -320,7 +320,7 @@ footer ul li {
     background-color: var(--ebony-clay);
     color: #b8b5bf;
     padding: .5rem;
- position: fixed;
+ position: relative;
  bottom: 0px;
  left: 0px;
  width: 100%;
