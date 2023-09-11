@@ -28,6 +28,28 @@ input[type=number] {
     --breakpoint-xl: 1200px;
     --breakpoint-xxl: 1296px;
 }
+/* Scrollbar (Site Kaydırma Çubuğu) */
+::-webkit-scrollbar {
+width: 5px;
+background-color: blue;
+}
+::-webkit-scrollbar-thumb{
+background-color: red;
+border-radius:5px;
+}
+::-webkit-scrollbar-thumb:hover {
+background-color: red;
+border-radius:5px;
+}
+::-webkit-scrollbar-track-piece{
+background: #7e7da1; 
+border-radius:5px;
+}
+::-webkit-scrollbar-corner {
+background: #7e7da1; 
+border-radius:5px;
+}
+/* Scrollbar (Site Kaydırma Çubuğu) */
 
 .asad {
     margin: 0px 42px 0px 42px;
