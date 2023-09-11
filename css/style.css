@@ -53,12 +53,18 @@ border-radius:5px;
 
 .asad {
     margin: 0px 42px 0px 42px;
+	color: #cdc5bf;
+
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+border: 8px double #77ff00;
 }
 
 body {
     background-color: var(--black-russian);
     color: var(--white);
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Francois One', sans-serif;
     font-size: 20px;
 }
 
